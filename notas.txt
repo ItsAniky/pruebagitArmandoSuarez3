@@ -1,2 +1,7 @@
  git commit es para versionar el proyecto 
  -m sirve para agregar un nombre al commit
+
+git branch muestra las ramas del proyecto
+git branch ---diseño--- es para poner nombre a alguna rama quue vallamos a agregar
+git  check out diseño para cambiar de rama
+nos marca en verde la rama en la que estamos
