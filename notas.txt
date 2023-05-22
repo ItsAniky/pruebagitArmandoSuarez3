@@ -1,0 +1,2 @@
+ git commit es para versionar el proyecto 
+ -m sirve para agregar un nombre al commit
